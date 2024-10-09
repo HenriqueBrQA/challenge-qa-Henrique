@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KPS3lflY6MiAsz3p55SmtmZi/q53Av0OttFkAvaXO6QZN8iDKkx+8pyErb/XpXQzUL1HvyCnWFN7Z+H5CegKkQ==",
+  "dgSpecHash": "WIAI4G6Cl27yAXJSQdL6W6vmGRtfinLFkQw/MXsAJoQUaQmjNiPKgFqy02GPDnenXEft5BJ+w9Z+oHxGCgSv7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henrique.andrade\\Desktop\\Pessoal\\DesafioA-\\DesafioAplusQA\\DesafioAplusQA.csproj",
+  "projectFilePath": "C:\\Users\\henrique.andrade\\Desktop\\Estudos\\challenge-qa-Henrique\\DesafioAplusQA\\DesafioAplusQA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henrique.andrade\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\henrique.andrade\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

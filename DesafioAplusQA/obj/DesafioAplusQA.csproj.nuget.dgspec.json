@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henrique.andrade\\Desktop\\Pessoal\\DesafioA-\\DesafioAplusQA\\DesafioAplusQA.csproj": {}
+    "C:\\Users\\henrique.andrade\\Desktop\\Estudos\\challenge-qa-Henrique\\DesafioAplusQA\\DesafioAplusQA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henrique.andrade\\Desktop\\Pessoal\\DesafioA-\\DesafioAplusQA\\DesafioAplusQA.csproj": {
+    "C:\\Users\\henrique.andrade\\Desktop\\Estudos\\challenge-qa-Henrique\\DesafioAplusQA\\DesafioAplusQA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henrique.andrade\\Desktop\\Pessoal\\DesafioA-\\DesafioAplusQA\\DesafioAplusQA.csproj",
+        "projectUniqueName": "C:\\Users\\henrique.andrade\\Desktop\\Estudos\\challenge-qa-Henrique\\DesafioAplusQA\\DesafioAplusQA.csproj",
         "projectName": "DesafioAplusQA",
-        "projectPath": "C:\\Users\\henrique.andrade\\Desktop\\Pessoal\\DesafioA-\\DesafioAplusQA\\DesafioAplusQA.csproj",
+        "projectPath": "C:\\Users\\henrique.andrade\\Desktop\\Estudos\\challenge-qa-Henrique\\DesafioAplusQA\\DesafioAplusQA.csproj",
         "packagesPath": "C:\\Users\\henrique.andrade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henrique.andrade\\Desktop\\Pessoal\\DesafioA-\\DesafioAplusQA\\obj\\",
+        "outputPath": "C:\\Users\\henrique.andrade\\Desktop\\Estudos\\challenge-qa-Henrique\\DesafioAplusQA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henrique.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config"
